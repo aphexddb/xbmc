@@ -2,6 +2,7 @@
 <smartplaylist type="movies">
     <name>James Bond 007</name>
     <match>one</match>
+		<order direction="descending">year</order>
 		<rule field="title" operator="contains">Dr. No</rule>
 		<rule field="title" operator="contains">From Russia with Love</rule>
 		<rule field="title" operator="contains">Goldfinger</rule>
@@ -25,6 +26,5 @@
 		<rule field="title" operator="contains">Die Another Day</rule>
 		<rule field="title" operator="contains">Casino Royale</rule>
 		<rule field="title" operator="contains">Quantum of Solace</rule>
-		<rule field="title" operator="contains">Skyfall</rule>
-    <order direction="ascending">sorttitle</order>
+		<rule field="title" operator="contains">Skyfall</rule>    
 </smartplaylist>

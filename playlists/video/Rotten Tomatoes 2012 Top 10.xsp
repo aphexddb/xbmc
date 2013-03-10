@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Rotten Tomatoes 2012 Top 10</name>
+    <match>one</match>
+		<order direction="ascending">title</order>
+		<rule field="title" operator="contains">The Invisible War</rule>
+		<rule field="title" operator="contains">How to Survive a Plague</rule>
+		<rule field="title" operator="contains">56 Up</rule>
+		<rule field="title" operator="contains">The Waiting Room</rule>
+		<rule field="title" operator="contains">Planet of Snail</rule>
+		<rule field="title" operator="contains">Wild Bill</rule>
+		<rule field="title" operator="contains">Everything or Nothing: The Untold Story of 007</rule>
+		<rule field="title" operator="contains">Finding Nemo 3D</rule>
+		<rule field="title" operator="contains">Jiro Dreams of Sushi</rule>
+		<rule field="title" operator="contains">This Is Not a Film</rule>
+</smartplaylist>
