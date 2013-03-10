@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Best Picture Winners</name>
+    <match>one</match>
+		<order direction="descending">year</order>
+    <rule field="title" operator="is">Argo</rule>
+		<rule field="title" operator="is">The Artist</rule>
+		<rule field="title" operator="is">The King's Speech</rule>		
+		<rule field="title" operator="is">The Hurt Locker</rule>
+		<rule field="title" operator="is">Slumdog Millionaire</rule>
+		<rule field="title" operator="is">No Country for Old Men</rule>		
+		<rule field="title" operator="is">The Departed</rule>
+		<rule field="title" operator="is">Crash</rule>
+		<rule field="title" operator="is">Million Dollar Baby</rule>
+		<rule field="title" operator="is">The Lord of the Rings: The Return of the King</rule>
+		<rule field="title" operator="is">Chicago</rule>
+		<rule field="title" operator="is">A Beautiful Mind</rule>
+		<rule field="title" operator="is">Gladiator</rule>
+		<rule field="title" operator="is">American Beauty</rule>
+		<rule field="title" operator="is">Shakespeare in Love</rule>
+		<rule field="title" operator="is">Titanic</rule>
+		<rule field="title" operator="is">The English Patient</rule>
+		<rule field="title" operator="is">Braveheart</rule>
+		<rule field="title" operator="is">Forrest Gump</rule>
+		<rule field="title" operator="is">Schindler's List</rule>
+		<rule field="title" operator="is">Unforgiven</rule>
+		<rule field="title" operator="is">The Silence of the Lambs</rule>
+		<rule field="title" operator="is">Dances With Wolves</rule>
+		<rule field="title" operator="is">Driving Miss Daisy</rule>
+		<rule field="title" operator="is">Rain Man</rule>
+		<rule field="title" operator="is">The Last Emperor</rule>
+		<rule field="title" operator="is">Platoon</rule>
+		<rule field="title" operator="is">Out of Africa</rule>
+		<rule field="title" operator="is">Amadeus</rule>
+		<rule field="title" operator="is">Terms of Endearment</rule>
+		<rule field="title" operator="is">Gandhi</rule>
+		<rule field="title" operator="is">Chariots of Fire</rule>
+		<rule field="title" operator="is">Ordinary People</rule>
+		<rule field="title" operator="is">Kramer vs. Kramer</rule>
+		<rule field="title" operator="is">The Deer Hunter</rule>
+		<rule field="title" operator="is">Annie Hall</rule>
+		<rule field="title" operator="is">Rocky</rule>
+		<rule field="title" operator="is">One Flew over the Cuckoo's Nest</rule>
+		<rule field="title" operator="is">The Godfather Part II</rule>
+		<rule field="title" operator="is">The Sting</rule>
+		<rule field="title" operator="is">The Godfather</rule>
+		<rule field="title" operator="is">The French Connection</rule>
+		<rule field="title" operator="is">Patton</rule>
+		<rule field="title" operator="is">Midnight Cowboy</rule>
+		<rule field="title" operator="is">Oliver!</rule>
+		<rule field="title" operator="is">In the Heat of the Night</rule>
+		<rule field="title" operator="is">A Man for All Seasons</rule>
+		<rule field="title" operator="is">The Sound of Music</rule>
+		<rule field="title" operator="is">My Fair Lady</rule>
+		<rule field="title" operator="is">Tom Jones</rule>
+		<rule field="title" operator="is">Lawrence of Arabia</rule>
+		<rule field="title" operator="is">West Side Story</rule>
+		<rule field="title" operator="is">The Apartment</rule>
+		<rule field="title" operator="is">Ben-Hur</rule>
+		<rule field="title" operator="is">Gigi</rule>
+		<rule field="title" operator="is">The Bridge on the River Kwai</rule>
+		<rule field="title" operator="is">Around the World in 80 Days</rule>
+		<rule field="title" operator="is">Marty</rule>
+		<rule field="title" operator="is">On the Waterfront</rule>
+		<rule field="title" operator="is">From Here to Eternity</rule>
+		<rule field="title" operator="is">The Greatest Show on Earth</rule>
+		<rule field="title" operator="is">An American in Paris</rule>
+		<rule field="title" operator="is">All About Eve</rule>
+		<rule field="title" operator="is">All the Kings Men</rule>
+		<rule field="title" operator="is">Hamlet</rule>
+		<rule field="title" operator="is">Gentleman's Agreement</rule>
+		<rule field="title" operator="is">The Best Years of Our Lives</rule>
+		<rule field="title" operator="is">The Lost Weekend</rule>
+		<rule field="title" operator="is">Going My Way</rule>
+		<rule field="title" operator="is">Casablanca</rule>
+		<rule field="title" operator="is">Mrs. Miniver</rule>
+		<rule field="title" operator="is">How Green Was My Valley</rule>
+		<rule field="title" operator="is">Rebecca</rule>
+		<rule field="title" operator="is">Gone with the Wind</rule>
+		<rule field="title" operator="is">You Can't Take It with You</rule>
+		<rule field="title" operator="is">The Life of Emile Zola</rule>
+		<rule field="title" operator="is">The Great Ziegfeld</rule>
+		<rule field="title" operator="is">Mutiny on the Bounty</rule>
+		<rule field="title" operator="is">It Happened One Night</rule>
+		<rule field="title" operator="is">Cavalcade</rule>
+		<rule field="title" operator="is">Grand Hotel</rule>
+		<rule field="title" operator="is">Cimarron</rule>
+		<rule field="title" operator="is">All Quiet on the Western Front</rule>
+		<rule field="title" operator="is">The Broadway Melody</rule>
+		<rule field="title" operator="is">Wings</rule>		
+</smartplaylist>

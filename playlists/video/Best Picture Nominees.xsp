@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>Best Picture Nominees</name>
+    <match>one</match>
+		<order direction="descending">year</order>
+    <rule field="title" operator="contains">Wings</rule>
+		<rule field="title" operator="contains">The Racket</rule>
+		<rule field="title" operator="contains">Seventh Heaven</rule>
+		<rule field="title" operator="contains">The Broadway Melody</rule>
+		<rule field="title" operator="contains">Alibi</rule>
+		<rule field="title" operator="contains">The Hollywood Revue of 1929</rule>		
+		<rule field="title" operator="contains">In Old Arizona</rule>
+		<rule field="title" operator="contains">The Patriot</rule>
+		<rule field="title" operator="contains">All Quiet on the Western Front</rule>
+		<rule field="title" operator="contains">The Big House</rule>
+		<rule field="title" operator="contains">Disraeli</rule>
+		<rule field="title" operator="contains">The Divorcee</rule>
+		<rule field="title" operator="contains">The Love Parade</rule>
+		<rule field="title" operator="contains">Cimarron</rule>
+		<rule field="title" operator="contains">East Lynne</rule>
+		<rule field="title" operator="contains">The Front Page</rule>
+		<rule field="title" operator="contains">Skippy</rule>
+		<rule field="title" operator="contains">Trader Horn</rule>
+		<rule field="title" operator="contains">Grand Hotel</rule>
+		<rule field="title" operator="contains">Arrowsmith</rule>
+		<rule field="title" operator="contains">Bad Girl</rule>
+		<rule field="title" operator="contains">The Champ</rule>
+		<rule field="title" operator="contains">Five Star Final</rule>
+		<rule field="title" operator="contains">One Hour with You</rule>
+		<rule field="title" operator="contains">Shanghai Express</rule>
+		<rule field="title" operator="contains">The Smiling Lieutenant</rule>
+		<rule field="title" operator="contains">Cavalcade</rule>
+		<rule field="title" operator="contains">A Farewell to Arms</rule>
+		<rule field="title" operator="contains">42nd Street</rule>
+		<rule field="title" operator="contains">I Am a Fugitive from a Chain Gang</rule>
+		<rule field="title" operator="contains">Lady for a Day</rule>
+		<rule field="title" operator="contains">Little Women</rule>
+		<rule field="title" operator="contains">The Private Life of Henry VIII</rule>
+		<rule field="title" operator="contains">She Done Him Wrong</rule>		
+		<rule field="title" operator="contains">Smilin' Through</rule>
+		<rule field="title" operator="contains">State Fair</rule>
+		<rule field="title" operator="contains">It Happened One Night</rule>
+		<rule field="title" operator="contains">The Barretts of Wimpole Street</rule>
+		<rule field="title" operator="contains">Cleopatra</rule>
+		<rule field="title" operator="contains">Flirtation Walk</rule>
+		<rule field="title" operator="contains">The Gay Divorcee</rule>
+		<rule field="title" operator="contains">Here Comes the Navy</rule>
+		<rule field="title" operator="contains">The House of Rothschild</rule>
+		<rule field="title" operator="contains">Imitation of Life</rule>
+		<rule field="title" operator="contains">One Night of Love</rule>
+		<rule field="title" operator="contains">The Thin Man</rule>		
+		<rule field="title" operator="contains">Viva Villa!</rule>		
+		<rule field="title" operator="contains">The White Parade</rule>
+		<rule field="title" operator="contains">Mutiny on the Bounty</rule>
+		<rule field="title" operator="contains">Alice Adams</rule>
+		<rule field="title" operator="contains">Broadway Melody of 1936</rule>
+		<rule field="title" operator="contains">Captain Blood</rule>
+		<rule field="title" operator="contains">David Copperfield</rule>
+		<rule field="title" operator="contains">The Informer</rule>
+		<rule field="title" operator="contains">The Lives of a Bengal Lancer</rule>		
+		<rule field="title" operator="contains">A Midsummer Night's Dream</rule>
+		<rule field="title" operator="contains">Les Miserables</rule>
+		<rule field="title" operator="contains">Naughty Marietta</rule>
+		<rule field="title" operator="contains">Ruggles of Red Gap</rule>
+		<rule field="title" operator="contains">Top Hat</rule>
+		<rule field="title" operator="contains">The Great Ziegfeld</rule>
+		<rule field="title" operator="contains">Anthony Adverse</rule>
+		<rule field="title" operator="contains">Dodsworth</rule>
+		<rule field="title" operator="contains">Libeled Lady</rule>
+		<rule field="title" operator="contains">Mr. Deeds Goes to Town</rule>
+		<rule field="title" operator="contains">Romeo and Juliet</rule>
+		<rule field="title" operator="contains">San Francisco</rule>
+		<rule field="title" operator="contains">The Story of Louis Pasteur</rule>
+		<rule field="title" operator="contains">A Tale of Two Cities</rule>
+		<rule field="title" operator="contains">Three Smart Girls</rule>
+		<rule field="title" operator="contains">The Life of Emile Zola</rule>
+		<rule field="title" operator="contains">The Awful Truth</rule>
+		<rule field="title" operator="contains">Captains Courageous</rule>
+		<rule field="title" operator="contains">Dead End</rule>
+		<rule field="title" operator="contains">The Good Earth</rule>
+		<rule field="title" operator="contains">In Old Chicago</rule>
+		<rule field="title" operator="contains">Lost Horizon</rule>
+		<rule field="title" operator="contains">One Hundred Men and a Girl</rule>
+		<rule field="title" operator="contains">Stage Door</rule>
+		<rule field="title" operator="contains">A Star Is Born</rule>
+		<rule field="title" operator="contains">You Can't Take It With You</rule>
+		<rule field="title" operator="contains">The Adventures of Robin Hood</rule>
+		<rule field="title" operator="contains">Alexander's Ragtime Band</rule>
+		<rule field="title" operator="contains">Boys Town</rule>
+		<rule field="title" operator="contains">The Citadel</rule>
+		<rule field="title" operator="contains">Four Daughters</rule>
+		<rule field="title" operator="contains">Grand Illusion</rule>
+		<rule field="title" operator="contains">Jezebel</rule>
+		<rule field="title" operator="contains">Pygmalion</rule>
+		<rule field="title" operator="contains">Test Pilot</rule>
+		<rule field="title" operator="contains">Gone with the Wind</rule>
+		<rule field="title" operator="contains">Dark Victory</rule>
+		<rule field="title" operator="contains">Goodbye, Mr. Chips</rule>
+		<rule field="title" operator="contains">Love Affair</rule>
+		<rule field="title" operator="contains">Mr. Smith Goes to Washington</rule>
+		<rule field="title" operator="contains">Ninotchka</rule>
+		<rule field="title" operator="contains">Of Mice and Men</rule>
+		<rule field="title" operator="contains">Stagecoach</rule>
+		<rule field="title" operator="contains">The Wizard of Oz</rule>
+		<rule field="title" operator="contains">Wuthering Heights</rule>
+		<rule field="title" operator="contains">Rebecca</rule>
+		<rule field="title" operator="contains">All This, and Heaven Too</rule>
+		<rule field="title" operator="contains">Foreign Correspondent</rule>
+		<rule field="title" operator="contains">The Grapes of Wrath</rule>
+		<rule field="title" operator="contains">The Great Dictator</rule>
+		<rule field="title" operator="contains">Kitty Foyle</rule>
+		<rule field="title" operator="contains">The Letter</rule>
+		<rule field="title" operator="contains">The Long Voyage Home</rule>
+		<rule field="title" operator="contains">Our Town</rule>
+		<rule field="title" operator="contains">The Philadelphia Story</rule>
+		<rule field="title" operator="contains">How Green Was My Valley</rule>
+		<rule field="title" operator="contains">Blossoms in the Dust</rule>
+		<rule field="title" operator="contains">Citizen Kane</rule>
+		<rule field="title" operator="contains">Here Comes Mr. Jordan</rule>
+		<rule field="title" operator="contains">Hold Back the Dawn</rule>
+		<rule field="title" operator="contains">The Little Foxes</rule>
+		<rule field="title" operator="contains">The Maltese Falcon</rule>
+		<rule field="title" operator="contains">One Foot in Heaven</rule>
+		<rule field="title" operator="contains">Sergeant York</rule>
+		<rule field="title" operator="contains">Suspicion</rule>
+		<rule field="title" operator="contains">Mrs. Miniver</rule>
+		<rule field="title" operator="contains">49th Parallel</rule>
+		<rule field="title" operator="contains">Kings Row</rule>
+		<rule field="title" operator="contains">The Magnificent Ambersons</rule>
+		<rule field="title" operator="contains">The Pied Piper</rule>
+		<rule field="title" operator="contains">The Pride of the Yankees</rule>
+		<rule field="title" operator="contains">Random Harvest</rule>
+		<rule field="title" operator="contains">The Talk of the Town</rule>
+		<rule field="title" operator="contains">Wake Island</rule>
+		<rule field="title" operator="contains">Yankee Doodle Dandy</rule>
+		<rule field="title" operator="contains">Casablanca</rule>
+		<rule field="title" operator="contains">For Whom the Bell Tolls</rule>
+		<rule field="title" operator="contains">Heaven Can Wait</rule>
+		<rule field="title" operator="contains">The Human Comedy</rule>
+		<rule field="title" operator="contains">In Which We Serve</rule>
+		<rule field="title" operator="contains">Madame Curie</rule>
+		<rule field="title" operator="contains">The More the Merrier</rule>
+		<rule field="title" operator="contains">The Ox-Bow Incident</rule>
+		<rule field="title" operator="contains">The Song of Bernadette</rule>
+		<rule field="title" operator="contains">Watch on the Rhine</rule>
+		<rule field="title" operator="contains">Going My Way</rule>
+		<rule field="title" operator="contains">Double Indemnity</rule>
+		<rule field="title" operator="contains">Gaslight</rule>
+		<rule field="title" operator="contains">Since You Went Away</rule>
+		<rule field="title" operator="contains">Wilson</rule>
+		<rule field="title" operator="contains">The Lost Weekend</rule>
+		<rule field="title" operator="contains">Anchors Aweigh</rule>
+		<rule field="title" operator="contains">The Bells of St. Mary's</rule>
+		<rule field="title" operator="contains">Mildred Pierce</rule>
+		<rule field="title" operator="contains">Spellbound</rule>
+		<rule field="title" operator="contains">The Best Years of Our Lives</rule>
+		<rule field="title" operator="contains">Henry V</rule>
+		<rule field="title" operator="contains">It's a Wonderful Life</rule>
+		<rule field="title" operator="contains">The Razor's Edge</rule>
+		<rule field="title" operator="contains">The Yearling</rule>
+		<rule field="title" operator="contains">Gentleman's Agreement</rule>
+		<rule field="title" operator="contains">The Bishop's Wife</rule>
+		<rule field="title" operator="contains">Crossfire</rule>
+		<rule field="title" operator="contains">Great Expectations</rule>
+		<rule field="title" operator="contains">Miracle on 34th Street</rule>
+		<rule field="title" operator="contains">Hamlet</rule>
+		<rule field="title" operator="contains">Johnny Belinda</rule>
+		<rule field="title" operator="contains">The Red Shoes</rule>
+		<rule field="title" operator="contains">The Snake Pit</rule>
+		<rule field="title" operator="contains">The Treasure of the Sierra Madre</rule>
+		<rule field="title" operator="contains">All the King's Men</rule>
+		<rule field="title" operator="contains">Battleground</rule>
+		<rule field="title" operator="contains">The Heiress</rule>
+		<rule field="title" operator="contains">A Letter to Three Wives</rule>
+		<rule field="title" operator="contains">Twelve O'Clock High</rule>
+		<rule field="title" operator="contains">All About Eve</rule>
+		<rule field="title" operator="contains">Born Yesterday</rule>
+		<rule field="title" operator="contains">Father of the Bride</rule>
+		<rule field="title" operator="contains">King Solomon's Mines</rule>
+		<rule field="title" operator="contains">Sunset Boulevard</rule>
+		<rule field="title" operator="contains">An American in Paris</rule>
+		<rule field="title" operator="contains">Decision Before Dawn</rule>
+		<rule field="title" operator="contains">A Place in the Sun</rule>
+		<rule field="title" operator="contains">Quo Vadis</rule>
+		<rule field="title" operator="contains">A Streetcar Named Desire</rule>
+		<rule field="title" operator="contains">The Greatest Show on Earth</rule>
+		<rule field="title" operator="contains">High Noon</rule>
+		<rule field="title" operator="contains">Ivanhoe</rule>
+		<rule field="title" operator="contains">Moulin Rouge</rule>
+		<rule field="title" operator="contains">The Quiet Man</rule>
+		<rule field="title" operator="contains">From Here to Eternity</rule>
+		<rule field="title" operator="contains">Julius Caesar</rule>
+		<rule field="title" operator="contains">The Robe</rule>
+		<rule field="title" operator="contains">Roman Holiday</rule>
+		<rule field="title" operator="contains">Shane</rule>
+		<rule field="title" operator="contains">On the Waterfront</rule>
+		<rule field="title" operator="contains">The Caine Mutiny</rule>
+		<rule field="title" operator="contains">The Country Girl</rule>
+		<rule field="title" operator="contains">Seven Brides for Seven Brothers</rule>
+		<rule field="title" operator="contains">Three Coins in the Fountain</rule>
+		<rule field="title" operator="contains">Marty</rule>
+		<rule field="title" operator="contains">Love Is a Many-Splendored Thing</rule>
+		<rule field="title" operator="contains">Mister Roberts</rule>
+		<rule field="title" operator="contains">Picnic</rule>
+		<rule field="title" operator="contains">The Rose Tattoo</rule>
+		<rule field="title" operator="contains">Around the World in 80 Days</rule>
+		<rule field="title" operator="contains">Friendly Persuasion</rule>
+		<rule field="title" operator="contains">Giant</rule>
+		<rule field="title" operator="contains">The King and I</rule>
+		<rule field="title" operator="contains">The Ten Commandments</rule>
+		<rule field="title" operator="contains">The Bridge on the River Kwai</rule>
+		<rule field="title" operator="contains">Peyton Place</rule>
+		<rule field="title" operator="contains">Sayonara</rule>
+		<rule field="title" operator="contains">12 Angry Men</rule>
+		<rule field="title" operator="contains">Witness for the Prosecution</rule>
+		<rule field="title" operator="contains">Gigi</rule>
+		<rule field="title" operator="contains">Auntie Mame</rule>
+		<rule field="title" operator="contains">Cat on a Hot Tin Roof</rule>
+		<rule field="title" operator="contains">The Defiant Ones</rule>
+		<rule field="title" operator="contains">Separate Tables</rule>
+		<rule field="title" operator="contains">Ben-Hur</rule>
+		<rule field="title" operator="contains">Anatomy of a Murder</rule>
+		<rule field="title" operator="contains">The Diary of Anne Frank</rule>
+		<rule field="title" operator="contains">The Nun's Story</rule>
+		<rule field="title" operator="contains">Room at the Top</rule>
+		<rule field="title" operator="contains">The Apartment</rule>
+		<rule field="title" operator="contains">The Alamo</rule>
+		<rule field="title" operator="contains">Elmer Gantry</rule>
+		<rule field="title" operator="contains">Sons and Lovers</rule>
+		<rule field="title" operator="contains">The Sundowners</rule>
+		<rule field="title" operator="contains">West Side Story</rule>
+		<rule field="title" operator="contains">Fanny</rule>
+		<rule field="title" operator="contains">The Guns of Navarone</rule>
+		<rule field="title" operator="contains">The Hustler</rule>
+		<rule field="title" operator="contains">Judgment at Nuremberg</rule>
+		<rule field="title" operator="contains">Lawrence of Arabia</rule>
+		<rule field="title" operator="contains">The Longest Day</rule>
+		<rule field="title" operator="contains">The Music Man</rule>
+		<rule field="title" operator="contains">Mutiny on the Bounty</rule>
+		<rule field="title" operator="contains">To Kill a Mockingbird</rule>
+		<rule field="title" operator="contains">Tom Jones</rule>
+		<rule field="title" operator="contains">America, America</rule>
+		<rule field="title" operator="contains">Cleopatra</rule>
+		<rule field="title" operator="contains">How the West Was Won</rule>
+		<rule field="title" operator="contains">Lilies of the Field</rule>
+		<rule field="title" operator="contains">My Fair Lady</rule>
+		<rule field="title" operator="contains">Becket</rule>
+		<rule field="title" operator="contains">Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb</rule>
+		<rule field="title" operator="contains">Mary Poppins</rule>
+		<rule field="title" operator="contains">Zorba the Greek</rule>
+		<rule field="title" operator="contains">The Sound of Music</rule>
+		<rule field="title" operator="contains">Darling</rule>
+		<rule field="title" operator="contains">Doctor Zhivago</rule>
+		<rule field="title" operator="contains">Ship of Fools</rule>
+		<rule field="title" operator="contains">A Thousand Clowns</rule>
+		<rule field="title" operator="contains">A Man for All Seasons</rule>
+		<rule field="title" operator="contains">Alfie</rule>
+		<rule field="title" operator="contains">The Russians Are Coming, the Russians Are Coming</rule>
+		<rule field="title" operator="contains">The Sand Pebbles</rule>
+		<rule field="title" operator="contains">Who's Afraid of Virginia Woolf?</rule>
+		<rule field="title" operator="contains">In the Heat of the Night</rule>
+		<rule field="title" operator="contains">Bonnie and Clyde</rule>
+		<rule field="title" operator="contains">Doctor Dolittle</rule>
+		<rule field="title" operator="contains">The Graduate</rule>
+		<rule field="title" operator="contains">Guess Who's Coming to Dinner</rule>
+		<rule field="title" operator="contains">Oliver!</rule>
+		<rule field="title" operator="contains">Funny Girl</rule>
+		<rule field="title" operator="contains">The Lion in Winter</rule>
+		<rule field="title" operator="contains">Rachel, Rachel</rule>
+		<rule field="title" operator="contains">Romeo and Juliet</rule>
+		<rule field="title" operator="contains">Midnight Cowboy</rule>
+		<rule field="title" operator="contains">Anne of the Thousand Days</rule>
+		<rule field="title" operator="contains">Butch Cassidy and the Sundance Kid</rule>
+		<rule field="title" operator="contains">Hello, Dolly!</rule>
+		<rule field="title" operator="is">Z</rule>
+		<rule field="title" operator="contains">Patton</rule>
+		<rule field="title" operator="contains">Airport</rule>
+		<rule field="title" operator="contains">Five Easy Pieces</rule>
+		<rule field="title" operator="contains">Love Story</rule>
+		<rule field="title" operator="contains">MASH</rule>
+		<rule field="title" operator="contains">The French Connection</rule>
+		<rule field="title" operator="contains">A Clockwork Orange</rule>
+		<rule field="title" operator="contains">Fiddler on the Roof</rule>
+		<rule field="title" operator="contains">The Last Picture Show</rule>
+		<rule field="title" operator="contains">Nicholas and Alexandra</rule>
+		<rule field="title" operator="contains">The Godfather</rule>
+		<rule field="title" operator="contains">Cabaret</rule>
+		<rule field="title" operator="contains">Deliverance</rule>
+		<rule field="title" operator="contains">The Emigrants</rule>
+		<rule field="title" operator="contains">Sounder</rule>
+		<rule field="title" operator="contains">The Sting</rule>
+		<rule field="title" operator="contains">American Graffiti</rule>
+		<rule field="title" operator="contains">Cries and Whispers</rule>
+		<rule field="title" operator="contains">The Exorcist</rule>
+		<rule field="title" operator="contains">A Touch of Class</rule>
+		<rule field="title" operator="contains">The Godfather Part II</rule>
+		<rule field="title" operator="contains">Chinatown</rule>
+		<rule field="title" operator="contains">The Conversation</rule>
+		<rule field="title" operator="contains">Lenny</rule>
+		<rule field="title" operator="contains">The Towering Inferno</rule>
+		<rule field="title" operator="contains">One Flew Over the Cuckoo's Nest</rule>
+		<rule field="title" operator="contains">Barry Lyndon</rule>
+		<rule field="title" operator="contains">Dog Day Afternoon</rule>
+		<rule field="title" operator="contains">Jaws</rule>
+		<rule field="title" operator="contains">Nashville</rule>
+		<rule field="title" operator="contains">Rocky</rule>
+		<rule field="title" operator="contains">All the President's Men</rule>
+		<rule field="title" operator="contains">Bound for Glory</rule>
+		<rule field="title" operator="contains">Network</rule>
+		<rule field="title" operator="contains">Taxi Driver</rule>
+		<rule field="title" operator="contains">Annie Hall</rule>
+		<rule field="title" operator="contains">The Goodbye Girl</rule>
+		<rule field="title" operator="contains">Julia</rule>
+		<rule field="title" operator="contains">Star Wars</rule>
+		<rule field="title" operator="contains">The Turning Point</rule>
+		<rule field="title" operator="contains">The Deer Hunter</rule>
+		<rule field="title" operator="contains">Coming Home</rule>
+		<rule field="title" operator="contains">Heaven Can Wait</rule>
+		<rule field="title" operator="contains">Midnight Express</rule>
+		<rule field="title" operator="contains">An Unmarried Woman</rule>
+		<rule field="title" operator="contains">Kramer vs. Kramer</rule>
+		<rule field="title" operator="contains">All That Jazz</rule>
+		<rule field="title" operator="contains">Apocalypse Now</rule>
+		<rule field="title" operator="contains">Breaking Away</rule>
+		<rule field="title" operator="contains">Norma Rae</rule>
+		<rule field="title" operator="contains">Ordinary People</rule>
+		<rule field="title" operator="contains">Coal Miner's Daughter</rule>
+		<rule field="title" operator="contains">The Elephant Man</rule>
+		<rule field="title" operator="contains">Raging Bull</rule>
+		<rule field="title" operator="contains">Tess</rule>
+		<rule field="title" operator="contains">Chariots of Fire</rule>
+		<rule field="title" operator="contains">Atlantic City</rule>
+		<rule field="title" operator="contains">On Golden Pond</rule>
+		<rule field="title" operator="contains">Raiders of the Lost Ark</rule>
+		<rule field="title" operator="contains">Reds</rule>
+		<rule field="title" operator="contains">Gandhi</rule>
+		<rule field="title" operator="contains">E.T. the Extra-Terrestrial</rule>
+		<rule field="title" operator="contains">Missing</rule>
+		<rule field="title" operator="contains">Tootsie</rule>
+		<rule field="title" operator="contains">The Verdict</rule>
+		<rule field="title" operator="contains">Terms of Endearment</rule>
+		<rule field="title" operator="contains">The Big Chill</rule>
+		<rule field="title" operator="contains">The Dresser</rule>
+		<rule field="title" operator="contains">The Right Stuff</rule>
+		<rule field="title" operator="contains">Tender Mercies</rule>
+		<rule field="title" operator="contains">Amadeus</rule>
+		<rule field="title" operator="contains">The Killing Fields</rule>
+		<rule field="title" operator="contains">A Passage to India</rule>
+		<rule field="title" operator="contains">Places in the Heart</rule>
+		<rule field="title" operator="contains">A Soldier's Story</rule>
+		<rule field="title" operator="contains">Out of Africa</rule>
+		<rule field="title" operator="contains">The Color Purple</rule>
+		<rule field="title" operator="contains">Kiss of the Spider Woman</rule>
+		<rule field="title" operator="contains">Prizzi's Honor</rule>
+		<rule field="title" operator="contains">Witness</rule>
+		<rule field="title" operator="contains">Platoon</rule>
+		<rule field="title" operator="contains">Children of a Lesser God</rule>
+		<rule field="title" operator="contains">Hannah and Her Sisters</rule>
+		<rule field="title" operator="contains">The Mission</rule>
+		<rule field="title" operator="contains">A Room with a View</rule>
+		<rule field="title" operator="contains">The Last Emperor</rule>
+		<rule field="title" operator="contains">Broadcast News</rule>
+		<rule field="title" operator="contains">Fatal Attraction</rule>
+		<rule field="title" operator="contains">Hope and Glory</rule>
+		<rule field="title" operator="contains">Moonstruck</rule>
+		<rule field="title" operator="contains">Rain Man</rule>
+		<rule field="title" operator="contains">The Accidental Tourist</rule>
+		<rule field="title" operator="contains">Dangerous Liaisons</rule>
+		<rule field="title" operator="contains">Mississippi Burning</rule>
+		<rule field="title" operator="contains">Working Girl</rule>
+		<rule field="title" operator="contains">Driving Miss Daisy</rule>
+		<rule field="title" operator="contains">Born on the Fourth of July</rule>
+		<rule field="title" operator="contains">Dead Poets Society</rule>
+		<rule field="title" operator="contains">Field of Dreams</rule>
+		<rule field="title" operator="contains">My Left Foot</rule>
+		<rule field="title" operator="contains">Dances with Wolves</rule>
+		<rule field="title" operator="contains">Awakenings</rule>
+		<rule field="title" operator="contains">Ghost</rule>
+		<rule field="title" operator="contains">The Godfather Part III</rule>
+		<rule field="title" operator="contains">Goodfellas</rule>
+		<rule field="title" operator="contains">The Silence of the Lambs</rule>
+		<rule field="title" operator="contains">Beauty and the Beast</rule>
+		<rule field="title" operator="contains">Bugsy</rule>
+		<rule field="title" operator="contains">JFK</rule>
+		<rule field="title" operator="contains">The Prince of Tides</rule>
+		<rule field="title" operator="contains">Unforgiven</rule>
+		<rule field="title" operator="contains">The Crying Game</rule>
+		<rule field="title" operator="contains">A Few Good Men</rule>
+		<rule field="title" operator="contains">Howards End</rule>
+		<rule field="title" operator="contains">Scent of a Woman</rule>
+		<rule field="title" operator="contains">Schindler's List</rule>
+		<rule field="title" operator="contains">The Fugitive</rule>
+		<rule field="title" operator="contains">In the Name of the Father</rule>
+		<rule field="title" operator="contains">The Piano</rule>
+		<rule field="title" operator="contains">The Remains of the Day</rule>
+		<rule field="title" operator="contains">Forrest Gump</rule>
+		<rule field="title" operator="contains">Four Weddings and a Funeral</rule>
+		<rule field="title" operator="contains">Pulp Fiction</rule>
+		<rule field="title" operator="contains">Quiz Show</rule>
+		<rule field="title" operator="contains">The Shawshank Redemption</rule>
+		<rule field="title" operator="contains">Braveheart</rule>
+		<rule field="title" operator="contains">Apollo 13</rule>
+		<rule field="title" operator="contains">Babe</rule>
+		<rule field="title" operator="contains">The Postman (Il Postino)</rule>
+		<rule field="title" operator="contains">Sense and Sensibility</rule>
+		<rule field="title" operator="contains">The English Patient</rule>
+		<rule field="title" operator="contains">Fargo</rule>
+		<rule field="title" operator="contains">Jerry Maguire</rule>
+		<rule field="title" operator="contains">Secrets & Lies</rule>
+		<rule field="title" operator="contains">Shine</rule>
+		<rule field="title" operator="contains">Titanic</rule>
+		<rule field="title" operator="contains">As Good as It Gets</rule>
+		<rule field="title" operator="contains">The Full Monty</rule>
+		<rule field="title" operator="contains">Good Will Hunting</rule>
+		<rule field="title" operator="contains">L.A. Confidential</rule>
+		<rule field="title" operator="contains">Shakespeare in Love</rule>
+		<rule field="title" operator="contains">Elizabeth</rule>
+		<rule field="title" operator="contains">Life Is Beautiful</rule>
+		<rule field="title" operator="contains">Saving Private Ryan</rule>
+		<rule field="title" operator="contains">The Thin Red Line</rule>
+		<rule field="title" operator="contains">American Beauty</rule>
+		<rule field="title" operator="contains">The Cider House Rules</rule>
+		<rule field="title" operator="contains">The Green Mile</rule>
+		<rule field="title" operator="contains">The Insider</rule>
+		<rule field="title" operator="contains">The Sixth Sense</rule>
+		<rule field="title" operator="contains">Gladiator</rule>
+		<rule field="title" operator="contains">Chocolat</rule>
+		<rule field="title" operator="contains">Crouching Tiger, Hidden Dragon</rule>
+		<rule field="title" operator="contains">Erin Brockovich</rule>
+		<rule field="title" operator="contains">Traffic</rule>
+		<rule field="title" operator="contains">A Beautiful Mind</rule>
+		<rule field="title" operator="contains">Gosford Park</rule>
+		<rule field="title" operator="contains">In the Bedroom</rule>
+		<rule field="title" operator="contains">The Lord of the Rings: The Fellowship of the Ring</rule>
+		<rule field="title" operator="contains">Moulin Rouge!</rule>
+		<rule field="title" operator="contains">Chicago</rule>
+		<rule field="title" operator="contains">Gangs of New York</rule>
+		<rule field="title" operator="contains">The Hours</rule>
+		<rule field="title" operator="contains">The Lord of the Rings: The Two Towers</rule>
+		<rule field="title" operator="contains">The Pianist</rule>
+		<rule field="title" operator="contains">The Lord of the Rings: The Return of the King</rule>
+		<rule field="title" operator="contains">Lost in Translation</rule>
+		<rule field="title" operator="contains">Master and Commander: The Far Side of the World</rule>
+		<rule field="title" operator="contains">Mystic River</rule>
+		<rule field="title" operator="contains">Seabiscuit</rule>
+		<rule field="title" operator="contains">Million Dollar Baby</rule>
+		<rule field="title" operator="contains">The Aviator</rule>
+		<rule field="title" operator="contains">Finding Neverland</rule>
+		<rule field="title" operator="contains">Ray</rule>
+		<rule field="title" operator="contains">Sideways</rule>
+		<rule field="title" operator="contains">Crash</rule>
+		<rule field="title" operator="contains">Brokeback Mountain</rule>
+		<rule field="title" operator="contains">Capote</rule>
+		<rule field="title" operator="contains">Good Night, and Good Luck</rule>
+		<rule field="title" operator="contains">Munich</rule>
+		<rule field="title" operator="contains">The Departed</rule>
+		<rule field="title" operator="contains">Babel</rule>
+		<rule field="title" operator="contains">Letters from Iwo Jima</rule>
+		<rule field="title" operator="contains">Little Miss Sunshine</rule>
+		<rule field="title" operator="contains">The Queen</rule>
+		<rule field="title" operator="contains">No Country for Old Men</rule>
+		<rule field="title" operator="contains">Atonement</rule>
+		<rule field="title" operator="contains">Juno</rule>
+		<rule field="title" operator="contains">Michael Clayton</rule>
+		<rule field="title" operator="contains">There Will Be Blood</rule>
+		<rule field="title" operator="contains">Slumdog Millionaire</rule>
+		<rule field="title" operator="contains">The Curious Case of Benjamin Button</rule>
+		<rule field="title" operator="contains">Frost/Nixon</rule>
+		<rule field="title" operator="contains">Milk</rule>
+		<rule field="title" operator="contains">The Reader</rule>
+		<rule field="title" operator="contains">The Hurt Locker</rule>
+		<rule field="title" operator="contains">Avatar</rule>
+		<rule field="title" operator="contains">The Blind Side</rule>
+		<rule field="title" operator="contains">District 9</rule>
+		<rule field="title" operator="contains">An Education</rule>
+		<rule field="title" operator="contains">Inglourious Basterds</rule>
+		<rule field="title" operator="contains">Precious</rule>
+		<rule field="title" operator="contains">A Serious Man</rule>
+		<rule field="title" operator="contains">Up</rule>
+		<rule field="title" operator="contains">Up in the Air</rule>
+		<rule field="title" operator="contains">The King's Speech</rule>
+		<rule field="title" operator="contains">Black Swan</rule>
+		<rule field="title" operator="contains">The Fighter</rule>
+		<rule field="title" operator="contains">Inception</rule>
+		<rule field="title" operator="contains">The Kids Are All Right</rule>
+		<rule field="title" operator="contains">127 Hours</rule>
+		<rule field="title" operator="contains">The Social Network</rule>
+		<rule field="title" operator="contains">Toy Story 3</rule>
+		<rule field="title" operator="contains">True Grit</rule>
+		<rule field="title" operator="contains">Winter's Bone</rule>
+		<rule field="title" operator="contains">The Artist</rule>
+		<rule field="title" operator="contains">The Descendants</rule>
+		<rule field="title" operator="contains">Extremely Loud and Incredibly Close</rule>
+		<rule field="title" operator="contains">The Help</rule>
+		<rule field="title" operator="contains">Hugo</rule>
+		<rule field="title" operator="contains">Midnight in Paris</rule>
+		<rule field="title" operator="contains">Moneyball</rule>
+		<rule field="title" operator="contains">The Tree of Life</rule>
+		<rule field="title" operator="contains">War Horse</rule>
+		<rule field="title" operator="contains">Argo</rule>
+		<rule field="title" operator="contains">Amour</rule>
+		<rule field="title" operator="contains">Beasts of the Southern Wild</rule>
+		<rule field="title" operator="contains">Django Unchained</rule>
+		<rule field="title" operator="contains">Les Miserables</rule>
+		<rule field="title" operator="contains">Life of Pi</rule>
+		<rule field="title" operator="contains">Lincoln</rule>
+		<rule field="title" operator="contains">Silver Linings Playbook</rule>
+		<rule field="title" operator="contains">Zero Dark Thirty</rule>
+</smartplaylist>
