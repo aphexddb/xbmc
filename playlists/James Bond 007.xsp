@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<smartplaylist type="movies">
+    <name>James Bond 007</name>
+    <match>one</match>
+		<rule field="title" operator="contains">Dr. No</rule>
+		<rule field="title" operator="contains">From Russia with Love</rule>
+		<rule field="title" operator="contains">Goldfinger</rule>
+		<rule field="title" operator="contains">Thunderball</rule>
+		<rule field="title" operator="contains">You Only Live Twice</rule>
+		<rule field="title" operator="contains">On Her Majesty's Secret Service</rule>
+		<rule field="title" operator="contains">Diamonds Are Forever</rule>
+		<rule field="title" operator="contains">Live and Let Die</rule>
+		<rule field="title" operator="contains">The Man with the Golden Gun</rule>
+		<rule field="title" operator="contains">The Spy Who Loved Me</rule>
+		<rule field="title" operator="contains">Moonraker</rule>
+		<rule field="title" operator="contains">For Your Eyes Only</rule>
+		<rule field="title" operator="contains">Octopussy</rule>
+		<rule field="title" operator="contains">Never Say Never Again</rule>
+		<rule field="title" operator="contains">A View to a Kill</rule>
+		<rule field="title" operator="contains">The Living Daylights</rule>
+		<rule field="title" operator="contains">Licence to Kill</rule>
+		<rule field="title" operator="contains">GoldenEye</rule>
+		<rule field="title" operator="contains">Tomorrow Never Dies</rule>
+		<rule field="title" operator="contains">The World Is Not Enough</rule>
+		<rule field="title" operator="contains">Die Another Day</rule>
+		<rule field="title" operator="contains">Casino Royale</rule>
+		<rule field="title" operator="contains">Quantum of Solace</rule>
+		<rule field="title" operator="contains">Skyfall</rule>
+    <order direction="ascending">sorttitle</order>
+</smartplaylist>
